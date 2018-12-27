@@ -4,7 +4,7 @@
   "description": "Uptown CSS is a semantic toolkit designed to help developers build fully-responsive apps for Shopify's eCommerce platform.",
   "main": "index.js",
   "repository": "git@github.com:danlake/UptownCSS.git",
-  "author": "Dan Lake <d.lake@gymshark.com>",
+  "author": "Shoppad",
   "license": "MIT",
   "private": true
 }
